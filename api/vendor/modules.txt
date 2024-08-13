@@ -18,8 +18,8 @@ github.com/modern-go/concurrent
 # github.com/modern-go/reflect2 v1.0.2
 ## explicit; go 1.12
 github.com/modern-go/reflect2
-# github.com/openshift/api v0.0.0-20240702171116-4b89b3a92a17
-## explicit; go 1.21
+# github.com/openshift/api v0.0.0-20240813120314-e48b223033d1
+## explicit; go 1.22.0
 github.com/openshift/api/config/v1
 # github.com/openshift/custom-resource-status v1.1.2
 ## explicit; go 1.12
@@ -92,7 +92,7 @@ kubevirt.io/containerized-data-importer-api/pkg/apis/core/v1beta1
 # kubevirt.io/controller-lifecycle-operator-sdk/api v0.2.4
 ## explicit; go 1.17
 kubevirt.io/controller-lifecycle-operator-sdk/api
-# sigs.k8s.io/controller-runtime v0.18.4
+# sigs.k8s.io/controller-runtime v0.18.5
 ## explicit; go 1.22.0
 sigs.k8s.io/controller-runtime/pkg/scheme
 # sigs.k8s.io/json v0.0.0-20221116044647-bc3834ca7abd
